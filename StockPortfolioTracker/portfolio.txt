@@ -1,0 +1,10 @@
+STOCK PORTFOLIO REPORT
+========================================
+
+AAPL: 5 shares = $900.00
+TSLA: 3 shares = $750.00
+GOOGL: 5 shares = $700.00
+AMZN: 6 shares = $1,080.00
+MSFT: 2 shares = $840.00
+
+Total Investment: $4,270.00
