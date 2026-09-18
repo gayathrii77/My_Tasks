@@ -58,21 +58,3 @@ test_files/
     ├── photo2.jpg
     └── photo3.jpg
 
-CodeAlpha Task
-
-Task 3 — Task Automation with Python Scripts
-
-This project fulfills the CodeAlpha requirement to automate a real-life repetitive task using Python.
-
-Author
-
-Developed for the CodeAlpha Python Programming Internship.
-
-
-4. Press **Ctrl + S**.
-
-That's all for now. ✅
-
-Your `README.md` is now documented.
-
-**Don't do anything else yet.** Tell me **"done"** after saving it, and I'll guide you through the next step slowly.
