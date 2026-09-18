@@ -103,13 +103,3 @@ Thank you for using Stock Portfolio Tracker!
 📄 Output File
 
 The program creates portfolio.txt containing a summary of the user's portfolio and total investment.
-
-🎯 CodeAlpha Task
-
-Task 2 — Stock Portfolio Tracker
-
-This project fulfills the CodeAlpha requirement to create a stock portfolio tracker using a hardcoded stock-price dictionary, user input, and basic calculations.
-
-👨‍💻 Author
-
-Developed for the CodeAlpha Python Programming Internship.
