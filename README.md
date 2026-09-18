@@ -58,36 +58,7 @@ Incorrect guesses: 0 / 6
 Enter a letter: p
 Correct! ✅
 
-🎯 CodeAlpha Task
 
-Task 1 — Hangman Game
-
-This project fulfills the CodeAlpha Python Programming Internship requirement for a simple text-based Hangman game.
-
-👨‍💻 Author
-
-Developed for the CodeAlpha Python Programming Internship.
-
-
-Save with:
-
-```text
-Ctrl + S
-
-Your 3 projects will then be documented
-CodeAlpha_HangmanGame
-├── hangman.py
-└── README.md
-
-CodeAlpha_StockPortfolioTracker
-├── portfolio_tracker.py
-├── portfolio.txt
-└── README.md
-
-CodeAlpha_FileOrganizer
-├── file_organizer.py
-├── README.md
-└── test_files
 
 
 Once you save Task 1's README, tell me "done".
